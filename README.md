@@ -1,10 +1,16 @@
-## Hi there  👋! I'm Prabakaran
-I'm a Front-End Developer passionate about building intuitive and responsive user interfaces.
+# Hi there  👋! I'm Prabakaran
 <br></br>
-My Protfolio  <a href="https://prabakaran.vercel.app/">
-     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=about.me&logoColor=white" alt="Personal Website badge" />
-  </a>&nbsp;
+## I'm a Front-End Developer passionate about building intuitive and responsive user interfaces.
 
+- 🌱 Eager to learn new technologies and continuously grow as a developer.
+- 🤝 Open to collaboration on exciting web projects and always ready to take on new challenges.
+ <br></br>
+## My Protfolio  
+<a href="https://prabakaran.vercel.app/">
+     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=about.me&logoColor=white" alt="Personal Website badge" />
+  </a>
+
+ <br></br>
 ## 💻 Technologies and Languages I Love Working With
 <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/React.svg"/>&nbsp;
 <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" />&nbsp;
@@ -18,14 +24,16 @@ My Protfolio  <a href="https://prabakaran.vercel.app/">
 <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Redux.svg"/> 
 <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Babel.svg"/>
 <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Jest.svg"/>
-
-### 🛠️ IDE and Tools I Use
+ <br></br>
+## 🛠️ IDE and Tools I Use
 <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg"/> &nbsp;
 <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/PyCharm.svg"/> &nbsp;
 <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Git.svg"/>&nbsp;
 <img height="50" width="50" src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png"/> &nbsp;
 
-### 🚀 Personal Projects
+ <br></br>
+
+## 🚀 Personal Projects
 -  <a href="https://foodforce.vercel.app/">Foodfore</a>
  <br></br>
 - <a href="https://netflixgpt-app.vercel.app/">NetflixGPT</a>
@@ -37,7 +45,8 @@ My Protfolio  <a href="https://prabakaran.vercel.app/">
 <!-- Git Commit Stats -->
 <!--  ![Praba's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabakaran12vm&theme=dark&show_icons=true&&hide=issues,contribs) -->
 <!-- Git Commit Graph -->
-<!-- [![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)] -->
+## 🎯 Commit Graph
+![Praba's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prabakaran12vm&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)
 
 ### 📫 Let’s connect and build something great!
 I'm always on the lookout for new challenges and opportunities to collaborate on exciting projects. Whether you're in need of a Frontend Developer to bring your vision to life or seeking to contribute to your open-source project, feel free to reach out to me.
