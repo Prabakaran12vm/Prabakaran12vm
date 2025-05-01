@@ -1,16 +1,16 @@
 # Hi there  👋! I'm Prabakaran
-<br></br>
+<br>
+
 ## I'm a Front-End Developer passionate about building intuitive and responsive user interfaces.
 
 - 🌱 Eager to learn new technologies and continuously grow as a developer.
 - 🤝 Open to collaboration on exciting web projects and always ready to take on new challenges.
- <br></br>
+  
 ## My Protfolio  
 <a href="https://prabakaran.vercel.app/">
      <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=about.me&logoColor=white" alt="Personal Website badge" />
   </a>
 
- <br></br>
 ## 💻 Technologies and Languages I Love Working With
 <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/React.svg"/>&nbsp;
 <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" />&nbsp;
@@ -30,12 +30,11 @@
 <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/PyCharm.svg"/> &nbsp;
 <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Git.svg"/>&nbsp;
 <img height="50" width="50" src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png"/> &nbsp;
-
- <br></br>
+ 
 
 ## 🚀 Personal Projects
 -  <a href="https://foodforce.vercel.app/">Foodfore</a>
- <br></br>
+
 - <a href="https://netflixgpt-app.vercel.app/">NetflixGPT</a>
 
 
