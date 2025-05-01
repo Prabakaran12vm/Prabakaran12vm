@@ -61,7 +61,7 @@ I'm always on the lookout for new challenges and opportunities to collaborate on
 <!--   <a href="https://www.instagram.com/mrdebonairfox">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&color=e95950" alt="Instagram Badge" /> -->
   </a>&nbsp;
-  <a href="mailto:kbrandon319@gmail.com">
+  <a href="mailto:prabakaran12vm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
   </a>
 </div>
